@@ -3,7 +3,9 @@
 # then run `grub-mkconfig -o /boot/grub/grub.cfg`
 
 
-apt install nasm ascii geogebra arduino chromium-browser vlc steam gnome-tweak-tool typeracer vim git youtube-dl grsync cryptsetup thefuck fritzing eclipse gimp musescore
+sudo apt install nasm ascii geogebra arduino chromium-browser vlc steam gnome-tweak-tool vim git youtube-dl grsync cryptsetup fritzing eclipse gimp musescore plank krita
 
 sublime text
 
+sudo add-apt-repository ppa:webupd8team/sublime-text-3
+sudo apt-get install sublime-text-installer
