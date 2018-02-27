@@ -1,9 +1,9 @@
 # add `button.lid_init_state=open` to GRUB_CMDLINE_LINUX_DEFAULT in /etc/default/grub
 
-# then run `grub-mkconfig -o /boot/grub/grub.cfg`
+# then run `sudo grub-mkconfig -o /boot/grub/grub.cfg`
 
 
-sudo apt install nasm ascii geogebra arduino chromium-browser vlc steam gnome-tweak-tool vim git youtube-dl grsync cryptsetup fritzing eclipse gimp musescore plank krita npm
+sudo apt install nasm ascii geogebra arduino chromium-browser vlc steam gnome-tweak-tool vim git youtube-dl grsync cryptsetup fritzing eclipse gimp musescore plank krita npm freecad kicad 
 
 *node*
 sudo npm install -g n
